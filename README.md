@@ -28,5 +28,5 @@ Se coloca el robot en un area blanca cuadrada con limites negros en la cual hay 
 
 ## 
 
-[Página Web del proyecto](https://elyeti123.000webhostapp.com/)https://elyeti123.000webhostapp.com/) 
+[Página Web del proyecto](https://elyeti123.000webhostapp.com/)
 
